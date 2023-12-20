@@ -8,7 +8,7 @@
 
 <br/>
 
-![Untitled](Untitled.png)![Untitled](Untitled%201.png)
+![Untitled](./images/20231220.png)![Untitled](./images/20231220%201.png)
 <br/>
 
 em태그와 i태그 둘 다 글자의 기울기를 변형시켜 주는 태그이지만
@@ -19,7 +19,7 @@ em태그는 기울임과 내용에 강조를 나타낼 때 사용한다.
 
 <br/>
 
-![Untitled](Untitled%202.png)![Untitled](Untitled%203.png)
+![Untitled](./images/20231220%202.png)![Untitled](./images/20231220%203.png)
 
 <br/>
 s 태그와 del 태그 둘 다 글자에 취소선을 그어주는 태그이지만
@@ -32,9 +32,9 @@ del 태그는 ins 태그와 세트로 사용되어
 
 <br/>
 
-![Untitled](Untitled%204.png)
+![Untitled](./images/20231220%204.png)
 
-![Untitled](Untitled%205.png)
+![Untitled](./images/20231220%205.png)
 
 <br/>
 dl태그는 설명 목록 태그이다.
@@ -51,9 +51,9 @@ dl 태그를 사용해서 코드를 짜는 것이 좋은 코딩이라고 생각�
 
 ## 🔴 iframe 태그
 
-![Untitled](Untitled%206.png)
+![Untitled](./images/20231220%206.png)
 
-![Untitled](Untitled%207.png)
+![Untitled](./images/20231220%207.png)
 
 iframe 태그는 내부 html파일과 외부 페이지를 불러올 수 있는 태그이다.
 
@@ -62,9 +62,9 @@ iframe 태그는 내부 html파일과 외부 페이지를 불러올 수 있는 �
 
 ## 🔴 figure 태그
 
-![Untitled](Untitled%208.png)
+![Untitled](./images/20231220%208.png)
 
-![Untitled](Untitled%209.png)
+![Untitled](./images/20231220%209.png)
 
 figure태그 안에는 주로 이미지, 비디오, 오디오 등 독립적인 컨탠츠로 분리되는 요소들이 들어가게 된다.
 
