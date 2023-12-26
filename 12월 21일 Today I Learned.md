@@ -14,8 +14,6 @@ SEO는 Search Engine Optimization를 줄여서 부르는 말이다.
 
 검색엔진최적화가 필요하다.
 
-SEO 점수를 알아보는 방법은
-
 ## 🔴 문서화 구조를 잘 지키자
 
 위에 SEO 이야기와 연결되는데
