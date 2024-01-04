@@ -23,7 +23,7 @@
 
 ## 🔴 console. table
 
-![Untitled](/images/%201.png)
+![Untitled](/images/20240104%201.png)
 
 console.table을 이용하여 객체나 배열의 데이터를 table 형태로 확인할 수 있다.
 
