@@ -14,21 +14,21 @@ var, let ,const 모두 hoisting이 발생하지만, let과 const는 초기화 �
 
 **Excution Context**는 **Environment Record**와 **Outer Lexical Environment Reference**로 구성된다.
 
-그 중 **Environment Record**는 유효 범위 안의 식별자와 결과값을 바인드 해서 기록하는 영역이다. 
+그 중 **Environment Record**는 유효 범위 안의 식별자와 결과값을 바인드 해서 기록하는 영역이다.
 
 여기에 함수 선언, 변수명 등이 담기는데, Context내부 전체를 처음부터 끝까지 훑으면서 순서대로 수집한다.
 
 따라서 자바스크립트 엔진은 코드가 실행되기 전에도 이미 해당 환경에 속한 코드 변수명들을 알고 있기 때문에
 
- **Hoisting**이 일어나는 것이다.
+**Hoisting**이 일어나는 것이다.
 
-## 🔴 TDZ ( ****Temporal Dead Zone)****
+## 🔴 TDZ ( \***\*Temporal Dead Zone)\*\***
 
 TDZ는 일시적인 사각지대로, 변수를 사용하는 것을 비허용하는 개념상의 공간이다.
 
-TDZ에 있는 값에 접근하게 되면 ***ReferenceError: Cannot access 'xxx' before initialization***에러가 
+TDZ에 있는 값에 접근하게 되면 **_ReferenceError: Cannot access 'xxx' before initialization_**에러가
 
-발생한다. 
+발생한다.
 
 ## 🔴 변수를 var로 선언하면 안좋은 이유
 
@@ -50,14 +50,10 @@ console.log(window.a); // 전역변수화
 ⇒ 첫번째 단어를 제외하고 첫 글자를 대문자로 표기한다.
 
 - **Snake Case** (스네이크 표기법) : set_title
-    
-    ⇒ 전부 소문자로 표기하고 단어 사이에 _를 표기한다.
-    
+  ⇒ 전부 소문자로 표기하고 단어 사이에 \_를 표기한다.
 - **Pascal Case** (파스칼 표기법) : SetTitle
-    
-    ⇒ 단어 첫 글자를 대문자로 표기한다.
-    
+
+  ⇒ 단어 첫 글자를 대문자로 표기한다.
 
 - **Constant Case** : SET_TITLE
-    
-    ⇒ 전부 대문자로 표기하고 단어사이에 _를 표기한다. 주로 상수변수를 사용할 때만 사용한다
+  ⇒ 전부 대문자로 표기하고 단어사이에 \_를 표기한다. 주로 상수변수를 사용할 때만 사용한다
